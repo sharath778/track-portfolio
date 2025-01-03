@@ -1,0 +1,21 @@
+{
+  "name": "track-portfolio",
+  "version": "1.0.0",
+  "description": "Hello",
+  "homepage": "https://github.com/sharath778/track-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/sharath778/track-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharath778/track-portfolio.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node ./backend/index.js"
+  }
+}
